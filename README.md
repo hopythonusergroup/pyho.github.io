@@ -1,1 +1,3 @@
-# Welcome to the official Python User Group Ho, homepage
+# Welcome
+
+We're a volunteer run local user group community.
