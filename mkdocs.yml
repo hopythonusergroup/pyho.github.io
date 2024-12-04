@@ -1,0 +1,31 @@
+site_name: Python User Group Ho
+repo_url: https://github.com/hopythonusergroup/pyho.github.io
+repo_name: hopythonusergroup/pyho.github.io
+site_url: https://pythonho.com
+site_author: PyHo <pythonho.com>
+site_description: Python User Group Ho is a volunteer-run local user group of all levels of enthusiasts to learn about Python in the Volta Region
+copyright: 'Python User Group Ho © 2024 Built with ❤️ from Ho, Volta, Ghana'
+theme:
+  name: material
+  custom_dir: docs/overrides
+  locale: en
+  palette:
+    - scheme: default
+      primary: light blue
+      accent: light green
+  font:
+    text: Inter
+  features:
+    - announce.dismiss
+    - navigation.footer
+
+extra:
+  social:
+    - icon: fontawesome/brands/github 
+      link: https://github.com/hopythonusergroup
+    - icon: fontawesome/brands/twitter
+      link: https://x.com/PythonHo
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/company/pythonho/?viewAsMember=true
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:<ho@pythonghana.org>
