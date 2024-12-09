@@ -1,3 +1,3 @@
 # Welcome
 
-We're a volunteer run local user group community.
+This repo is the home of the official Python User Group Ho
