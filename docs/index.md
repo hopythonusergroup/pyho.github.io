@@ -45,5 +45,12 @@ template: home.html
         </div>
       </div>
     </div>
+    <div class="row mt-2">
+      <div class="col">
+        <h3 class="text-dark font-weight-bold">Community Support</h3>
+        <p>JetBrains User Group Support Program!</p>
+        <img class="card-img-top" src="assets/images/jetbrains.png" style="width: 50%;" alt="JetBrains logo" />
+      </div>
+    </div>
     <p class="mt-3 text-secondary">Website design by <a href="https://uxkafui.co/" target="_blank">Hope Adoli</a></p>
-</div>
+</>

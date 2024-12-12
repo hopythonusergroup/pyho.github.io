@@ -10,8 +10,8 @@ theme:
   custom_dir: docs/overrides
   locale: en
   palette:
-    - scheme: default
-      primary: light blue
+      scheme: default
+      primary: blue grey
       accent: light green
   font:
     text: Inter
