@@ -18,6 +18,10 @@ theme:
   features:
     - announce.dismiss
     - navigation.footer
+  logo: assets/logo.PNG
+  favicon: assets/images/favicon.ico
+extra_css:
+  - css/style.css
 
 extra:
   social:
